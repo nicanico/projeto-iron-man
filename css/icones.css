@@ -1,0 +1,7 @@
+.icones{
+    display: flex;
+    color: black;
+    font-size: 1.5rem;
+    gap: 25px;
+    text-decoration: none;
+}

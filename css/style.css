@@ -1,0 +1,31 @@
+body{
+    height: 100vh;
+    background-color: #F5F5F5;
+    display: grid;
+    grid-template-areas: 
+            "header"
+            "main"
+            "footer";
+    padding-left: 36px;
+    padding-top: 31px;
+    grid-template-rows: 60px 1fr 60px;
+}
+header{
+    grid-area: header;
+    display: flex;
+    margin-right: 82px;
+    align-items: center;
+    justify-content: space-between;
+}
+main{
+    grid-area: main;
+    display: flex;
+    grid-template-areas: 
+    "social-media description iron-man-img name-iron-man";
+    background-color: aliceblue;
+}
+footer{
+    grid-area: footer;
+    display: flex;
+    background-color: blanchedalmond;
+}
