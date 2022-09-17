@@ -1,0 +1,15 @@
+.next-character{
+    text-decoration: none;
+    display: flex;
+    gap: 13px;
+    font-size: 23px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    align-self: end;
+    align-items: center;
+    color: #383838;
+}
+.arrow-next{
+    font-size: 18px;
+    color: #383838;
+}
