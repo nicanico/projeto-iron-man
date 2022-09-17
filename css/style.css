@@ -22,7 +22,7 @@ main{
     display: grid;
     grid-template-areas: 
      "social-media description iron-man-img name-iron-man";
-    grid-template-columns: 70px 441px 1fr 183px;
+    grid-template-columns: 150px 441px 1fr 183px;
 }
 footer{
     grid-area: footer;
