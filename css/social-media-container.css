@@ -1,0 +1,20 @@
+.social-media-container{
+    display: flex;
+    flex-direction: column;
+    align-self: end;
+    place-items: center;
+    gap: 15px;
+    font-size: 44px;
+}
+.twitter{
+    color: #1DA1F2;
+}
+.github{
+    color: #000;
+}
+.figma{
+    color: #000;
+}
+.instagram{
+    color: #000;
+}
