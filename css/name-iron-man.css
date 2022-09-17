@@ -1,4 +1,16 @@
 .name-iron-man{
-    background-color: cadetblue;
-    
+    margin-right: 30px;
+}
+.name{
+    color: #8A2D5E;
+    display: flex;
+    flex-direction: column;
+    opacity: 50%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 140px;
+    white-space: nowrap;
+    align-items: end;
+    place-content: center;
+    transform: rotate(-90deg);
 }
