@@ -1,5 +1,5 @@
 # projeto-iron-man
-![](./img/desktop.png)
+![](./img/desktop.PNG)
 
 
 ## [Clique aqui](https://nicanico.github.io/projeto-iron-man/) para acessar o site
