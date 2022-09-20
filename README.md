@@ -16,4 +16,4 @@ Site tipo landing page para divulgação do iron man, com objetivo de colocar em
 - Markdown
 ---
 ## Autor
-- [Nicole Souza](https://github.com/nicanico)
+- [Nicole Souza Santos](https://github.com/nicanico)
