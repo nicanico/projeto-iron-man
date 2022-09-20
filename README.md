@@ -1,2 +1,19 @@
 # projeto-iron-man
-site criado para fins didáticos para aula de LIMA com base em design passado pelo professor.
+![](./img/desktop.png)
+
+
+## [Clique aqui](https://nicanico.github.io/projeto-iron-man/) para acessar o site
+---
+
+## Sobre
+---
+Site tipo landing page para divulgação do iron man, com objetivo de colocar em pratica conhecimentos, sbre desenvolvimento de sites adquiridos no curso do [SENAI Jandira](https://jandira.sp.senai.br/).
+
+## Tecnologias utilizadas
+---
+- HTML5
+- CSS3
+- Markdown
+---
+## Autor
+- [Nicole Souza](https://github.com/nicanico)
